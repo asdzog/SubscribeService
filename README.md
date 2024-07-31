@@ -27,7 +27,7 @@ SubscribeService - это веб-сервис, построенный с исп�
 2. Создайте виртуальное окружение и активируйте его:
     ```bash
     python -m venv venv
-    source myenv/bin/activate  # для Windows используйте `venv\Scripts\activate`
+    source venv/bin/activate  # для Windows используйте `venv\Scripts\activate`
     ```
 
 3. Установите зависимости:
